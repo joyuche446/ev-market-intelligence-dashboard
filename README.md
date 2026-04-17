@@ -16,5 +16,14 @@ This project addresses the need to:
 ## Key Calculations & Metrics:
 ## Dashboard:
 ## Skills:
+* Tableau (Dashboard Development & Data Visualization)
+* KPI Development & Calculated Fields (COUNTD, AVG)
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Trend & Time-Series Analysis
+* Interactive Dashboard Design (Filters, User Interaction)
+* Data Modeling & Structuring
+* Market Segmentation & Comparative Analysis
+* Business Intelligence & Data-Driven Insights
 ## Results & Recommendations:
 ## Next Steps:
