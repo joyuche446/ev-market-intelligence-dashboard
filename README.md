@@ -14,14 +14,10 @@ This project analyzes adoption patterns, including BEV vs. PHEV distribution, le
 ## Dashboard:
 ![EV Dashboard](images/EV_dashboard.png)
 ## Skills:
-* Tableau (Dashboard Development & Data Visualization)
-* KPI Development & Calculated Fields (COUNTD, AVG)
-* Data Cleaning & Transformation
+* Data Cleaning & Transformation & Modelling
+* KPI Development & Calculated Fields
 * Exploratory Data Analysis (EDA)
-* Trend & Time-Series Analysis
 * Interactive Dashboard Design (Filters, User Interaction)
-* Data Modeling & Structuring
-* Market Segmentation & Comparative Analysis
-* Business Intelligence & Data-Driven Insights
+* Market & Business Insights
 ## Results & Recommendations:
 ## Next Steps:
