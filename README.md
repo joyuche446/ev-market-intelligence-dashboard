@@ -28,7 +28,8 @@ END
 * Exploratory Data Analysis (EDA)
 * Interactive Dashboard Design (Filters, User Interaction)
 * Market & Business Insights
-## Results & Recommendations:
+## Insights & Recommendations:
+### Insights:
 - **BEVs** dominate the market **(80.15%)** vs **PHEVs (19.8%)**
 - Consistent growth in EV adoption from **<2k in 2011 to >30k in 2024**
 - Tesla vehicles leads in total EV adoption
