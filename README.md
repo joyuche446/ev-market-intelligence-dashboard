@@ -2,13 +2,8 @@
 This project analyzes EV adoption using 150,000+ records. A Tableau dashboard highlights key metrics like vehicle count, range, technology split, and trends. Results show rapid growth after 2020, with BEVs dominating over 80% of the market, indicating a shift to full electrification.
 The dashboard helps stakeholders understand market dynamics and identify patterns supporting the transition to sustainable mobility.
 ## Business Problem:
-This project addresses the need to:
-*	Analyze the current state of EV adoption across a large dataset of vehicles 
-*	Understand the distribution between BEVs and PHEVs 
-*	Identify leading manufacturers and market concentration 
-*	Track adoption trends over time and across model years 
-*	Evaluate geographic distribution of EV usage 
-*	Assess CAFV eligibility and its implications on EV adoption 
+The rapid shift toward sustainable transportation has accelerated EV adoption, but stakeholders lack clear insights into how it varies across manufacturers, regions, and technologies.
+This project analyzes adoption patterns, including BEV vs. PHEV distribution, leading manufacturers, time trends, geography, and CAFV eligibility to support better decision-making.
 
 ## Datasource & Overview:
 ## Methodology:
