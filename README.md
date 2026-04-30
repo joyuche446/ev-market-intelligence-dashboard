@@ -15,6 +15,7 @@ This project addresses the need to:
 ## Methodology:
 ## Key Calculations & Metrics:
 ## Dashboard:
+![EV Dashboard](images/EV_dashboard.png)
 ## Skills:
 * Tableau (Dashboard Development & Data Visualization)
 * KPI Development & Calculated Fields (COUNTD, AVG)
