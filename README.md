@@ -32,3 +32,8 @@ END
 - **BEVs** dominate the market **(80.15%)** vs **PHEVs (19.8%)**
 - Consistent growth in EV adoption from **<2k in 2011 to >30k in 2024**
 - Tesla vehicles leads in total EV adoption
+### Recommendations:
+- Prioritize the production & innovation of BEVs 
+- Expand charging infrastructure to support continued growth
+- Sustain incentives/policies to drive further adoption
+
