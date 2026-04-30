@@ -12,6 +12,14 @@ This project analyzes adoption patterns, including BEV vs. PHEV distribution, le
 ## Methodology:
 The dataset (150K+ EV records) was cleaned and standardized, with calculated fields created for KPIs and EV type grouping; trends were analyzed across time, manufacturer, model, location, and CAFV eligibility, and results were presented in an interactive Tableau dashboard with dynamic filters.
 ## Key Calculations & Metrics:
+1. Total Vehicles: COUNTD([DOL Vehicle ID])
+2. Average Electric Range: AVG([Electric Range])
+
+3. EV Type Grouping:
+
+IF [EV Type] = "Battery Electric Vehicle (BEV)" THEN "BEV"
+ELSEIF [EV Type] = "Plug-in Hybrid Electric Vehicle (PHEV)" THEN "PHEV"
+END
 ## Dashboard:
 ![EV Dashboard](images/EV_dashboard.png)
 ## Skills:
