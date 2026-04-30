@@ -29,4 +29,6 @@ END
 * Interactive Dashboard Design (Filters, User Interaction)
 * Market & Business Insights
 ## Results & Recommendations:
-
+- **BEVs** dominate the market **(80.15%)** vs **PHEVs (19.8%)**, hence strong preference for electric vehicles
+- Consistent growth in EV adoption from 2011–2024
+- Tesla vehicles leads in total EV adoption
