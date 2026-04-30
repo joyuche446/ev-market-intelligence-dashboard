@@ -10,6 +10,7 @@ This project analyzes adoption patterns, including BEV vs. PHEV distribution, le
 
 **Key Variables:** Model Year, Make, Model, Electric Vehicle Type, Electric Range, CAFV Eligibility, County/City/State
 ## Methodology:
+The dataset (150K+ EV records) was cleaned and standardized, with calculated fields created for KPIs and EV type grouping; trends were analyzed across time, manufacturer, model, location, and CAFV eligibility, and results were presented in an interactive Tableau dashboard with dynamic filters.
 ## Key Calculations & Metrics:
 ## Dashboard:
 ![EV Dashboard](images/EV_dashboard.png)
