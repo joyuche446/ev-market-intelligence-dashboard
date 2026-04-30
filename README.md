@@ -7,6 +7,7 @@ This project analyzes adoption patterns, including BEV vs. PHEV distribution, le
 
 ## Datasource & Overview:
 **Records:** 150,482 | **Fields:** 15
+
 **Key Variables:** Model Year, Make, Model, Electric Vehicle Type, Electric Range, CAFV Eligibility, County/City/State
 ## Methodology:
 ## Key Calculations & Metrics:
