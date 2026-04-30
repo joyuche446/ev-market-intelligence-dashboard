@@ -6,9 +6,8 @@ The rapid shift toward sustainable transportation has accelerated EV adoption, b
 This project analyzes adoption patterns, including BEV vs. PHEV distribution, leading manufacturers, time trends, geography, and CAFV eligibility to support better decision-making.
 
 ## Datasource & Overview:
-Records: 
-Fields: 
-Key Variables: 
+**Records:** 150,482 | **Fields:** 15
+**Key Variables:** Model Year, Make, Model, Electric Vehicle Type, Electric Range, CAFV Eligibility, County/City/State
 ## Methodology:
 ## Key Calculations & Metrics:
 ## Dashboard:
